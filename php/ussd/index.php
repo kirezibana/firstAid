@@ -38,7 +38,6 @@ $response = "END your doctor is ".$dentistDoctor;
 header('content-type; text/plain');
 echo $response;
 
-}
 
 
 
